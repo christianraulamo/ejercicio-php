@@ -1,0 +1,60 @@
+<!-- Escribe un programa que muestre por pantalla 10 palabras en inglés junto a su correspondiente
+traducción al castellano. Las palabras deben estar distribuidas en dos columnas. Utiliza la etiqueta
+<table> de HTML. -->
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <td>Español</td>
+                <td>Ingles</td>
+            </tr>
+            <tr>
+                <td>Gato</td>
+                <td>Cat</td>
+            </tr>
+            <tr>
+                <td>Perro</td>
+                <td>Dog</td>
+            </tr>
+            <tr>
+                <td>Naranja</td>
+                <td>Orange</td>
+            </tr>
+            <tr>
+                <td>Mesa</td>
+                <td>Table</td>
+            </tr>
+            <tr>
+                <td>Ratón</td>
+                <td>Mouse</td>
+            </tr>
+            <tr>
+                <td>Manzana</td>
+                <td>Apple</td>
+            </tr>
+            <tr>
+                <td>Pera</td>
+                <td>Pear</td>
+            </tr>
+            <tr>
+                <td>Ordenador</td>
+                <td>Computer</td>
+            </tr>
+            <tr>
+                <td>Puerta</td>
+                <td>Dor</td>
+            </tr>
+            <tr>
+                <td>Silla</td>
+                <td>Chair</td>
+            </tr>
+        </table>
+        <?php
+        ?>
+    </body>
+</html>
