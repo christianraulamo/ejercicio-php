@@ -10,7 +10,7 @@ deberá introducir por teclado. -->
         <h3>Conversor de euros a pesetas</h3>
 
         <form action="Calculo.php" method="get">
-            Primer número: <input type="number" name="a"><br>
+            EUROS: <input type="number" name="a"><br>
             <input type="submit" value="Conversor">
         </form>
     </body>
