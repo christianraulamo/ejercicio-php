@@ -9,8 +9,8 @@ contorno hecho con asteriscos).  -->
     <body>
         <?php
         $asterisco = "*";
-
         echo "&nbsp;" . "&nbsp;" . "&nbsp;" . "&nbsp;" . "&nbsp;" . "&nbsp;" . "&nbsp;" . "&nbsp;" . $asterisco, "<br>";
+        echo "&nbsp;" . "&nbsp;" . "&nbsp;" . "&nbsp;" . "&nbsp;" . "&nbsp;" . "&nbsp;" . $asterisco . $asterisco, "<br>";
         echo "&nbsp;" . "&nbsp;" . "&nbsp;" . "&nbsp;" . "&nbsp;" . "&nbsp;" . $asterisco . "&nbsp;" . "&nbsp;" . $asterisco, "<br>";
         echo "&nbsp;" . "&nbsp;" . "&nbsp;" . "&nbsp;" . "&nbsp;" . $asterisco . "&nbsp;" . "&nbsp;" . "&nbsp;" . "&nbsp;" . $asterisco, "<br>";
         echo "&nbsp;" . "&nbsp;" . "&nbsp;" . "&nbsp;" . $asterisco . "&nbsp;" . "&nbsp;" . "&nbsp;" . "&nbsp;" . "&nbsp;" . "&nbsp;" . $asterisco, "<br>";
